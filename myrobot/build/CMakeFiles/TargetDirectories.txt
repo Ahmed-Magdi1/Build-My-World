@@ -1,3 +1,0 @@
-/home/ahmed/nano_ws/myrobot/build/CMakeFiles/rebuild_cache.dir
-/home/ahmed/nano_ws/myrobot/build/CMakeFiles/edit_cache.dir
-/home/ahmed/nano_ws/myrobot/build/CMakeFiles/Welcom.dir
