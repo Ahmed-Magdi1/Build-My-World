@@ -1,3 +1,4 @@
+# Project 1: Build My World
 ### Directory Structure
     .myrobot                           # myrobot lab main folder 
     ├── images                         # Code output image                   
